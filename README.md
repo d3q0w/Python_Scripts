@@ -37,3 +37,7 @@ Most scripts use Python 3 and may require additional modules such as:
 - `subprocess`
 
 Feel free to import them or install them when needed.
+
+# Contributions 🤝
+
+Feel free to fork this repository, then clone your fork locally, create new branch for your contributions and push to your fork. Then open a pull request to the original repo.
